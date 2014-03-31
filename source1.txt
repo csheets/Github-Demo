@@ -1,3 +1,5 @@
 this is source file #1
 
 first file change
+
+some more changes here before commiting to master branch and before create a new branch --
